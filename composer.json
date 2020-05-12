@@ -4,7 +4,7 @@
     "description": "Oro Bundle to manage sliders and slides",
     "type": "project",
     "require": {
-        "oro/commerce": "^3.1"
+        "oro/commerce": "^4.1"
     },
     "autoload": {
         "psr-4": { "SliderBundle\\": "./src/" }
